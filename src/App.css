@@ -1,0 +1,20 @@
+:root {
+	--NavBar-bg-color: #282c34;
+	--NavBar-active-link: #40f598;
+	--NavBar-hover-link: #90f5b5;
+	--VendingMachine-goods-link: #7f7fd5;
+	/* gradients */
+	--VendingMachine-question-gradient: to right, #90f5b5 0%, #4419da 100%;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*, *:after, *:before {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+}
